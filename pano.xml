@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="17873" start="node1" appversion="6.1.2">
+  <panorama id="node1">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start pan="80.07" fov="70" tilt="-0.63" projection="4"/>
+      <flyin pan="80.07" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="Lobby" author="" copyright="" nodeid="node1" tags="Amenidades|Exterior" customnodeid="" source="" description="" datetime="11/11/2024 08:46 p.m." info="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="patio 01" pan="-345.92" target="" tilt="-7.11" title="Patio Central 01" description="" url="{node2}" skinid="ht_node"/>
+      <hotspot id="Bar" pan="-12.88" target="" tilt="-0.27" title="Sport Bar" description="" url="{node7}" skinid="ht_node"/>
+      <hotspot id="Pet Spa" pan="-37.43" target="" tilt="-1.95" title="Pet Spa" description="" url="{node6}" skinid="ht_node"/>
+      <hotspot id="Patio 02" pan="-29.89" target="" tilt="-6.36" title="Patio Central 02" description="" url="{node4}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start pan="-88.75" fov="70" tilt="-0.22" projection="4"/>
+      <flyin pan="-88.74" fov="70" tilt="-0.22" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="Patio Central 01" author="" copyright="" nodeid="node2" tags="Amenidades|iNTERIOR" customnodeid="" source="" description="" datetime="11/11/2024 08:46 p.m." info="" comment="">
+      <mapcoords x_floorplan_percent="65.1667" x="1.07391" mapid="FloorPlan01" y="-0.585022" y_floorplan_percent="52.4631"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Lobby" pan="-130.71" target="" tilt="-5.36" title="Lobby" description="" url="{node1}" skinid="ht_node"/>
+      <hotspot id="Patio 02" pan="-89.11" target="" tilt="-5.75" title="Patio Central 02" description="" url="{node4}" skinid="ht_node"/>
+      <hotspot id="Bussines" pan="-111.8" target="" tilt="-2.13" title="Busssines Center" description="" url="{node5}" skinid="ht_node"/>
+      <hotspot id="Pet Spa" pan="-80.08" target="" tilt="-2.11" title="Pet Spa" description="" url="{node6}" skinid="ht_node"/>
+      <hotspot id="Bar" pan="-59.27" target="" tilt="-2.8" title="Sport Bar" description="" url="{node7}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start pan="-90.65" fov="70" tilt="0.33" projection="4"/>
+      <flyin pan="-90.66" fov="70" tilt="0.33" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="" author="" copyright="" nodeid="node3" tags="Amenidades" customnodeid="" source="" description="" datetime="11/11/2024 08:46 p.m." info="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start pan="-89.41" fov="70" tilt="-1.81" projection="4"/>
+      <flyin pan="-89.41" fov="70" tilt="-1.81" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="Patio Central 02" author="" copyright="" nodeid="node4" tags="Editado|iNTERIOR" customnodeid="" source="" description="" datetime="11/11/2024 08:46 p.m." info="" comment="">
+      <mapcoords x_floorplan_percent="64.6667" x="1.06567" mapid="FloorPlan01" y="-0.280151" y_floorplan_percent="25.1232"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Pet Spa" pan="-49.94" target="" tilt="-13.01" title="Pet Spa" description="" url="{node6}" skinid="ht_node"/>
+      <hotspot id="Bussines" pan="-178.72" target="" tilt="-7.42" title="Busssines Center" description="" url="{node5}" skinid="ht_node"/>
+      <hotspot id="Lobby" pan="-220.07" target="" tilt="-5.38" title="Lobby" description="" url="{node1}" skinid="ht_node"/>
+      <hotspot id="Patio 01" pan="-270.64" target="" tilt="-6.03" title="Patio Central 01" description="" url="{node2}" skinid="ht_node"/>
+      <hotspot id="Bar" pan="-333.38" target="" tilt="-5.32" title="Sport Bar" description="" url="{node7}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="Busssines Center" author="" copyright="" nodeid="node5" tags="Amenidades|Exterior" customnodeid="" source="" description="" datetime="11/11/2024 08:46 p.m." info="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Patio 02" pan="-1.83" target="" tilt="-12.42" title="Patio Central 02" description="" url="{node4}" skinid="ht_node"/>
+      <hotspot id="Pet Spa" pan="-15.78" target="" tilt="-4.79" title="Pet Spa" description="" url="{node6}" skinid="ht_node"/>
+      <hotspot id="Bar" pan="-351.71" target="" tilt="-2.07" title="Sport Bar" description="" url="{node7}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start pan="76.56" fov="70" tilt="-0.52" projection="4"/>
+      <flyin pan="76.56" fov="70" tilt="-0.52" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="Pet Spa" author="" copyright="" nodeid="node6" tags="Amenidades|iNTERIOR" customnodeid="" source="" description="" datetime="11/11/2024 08:46 p.m." info="" comment="">
+      <mapcoords x_floorplan_percent="46.6667" x="0.769043" mapid="FloorPlan01" y="-0.173035" y_floorplan_percent="15.5172"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Patio 02" pan="-182.15" target="" tilt="-8.17" title="Patio Central 02" description="" url="{node4}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-99">
+      <start pan="-101.3" fov="70" tilt="0.8" projection="4"/>
+      <flyin pan="-101.27" fov="70" tilt="0.8" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="Sport Bar" author="" copyright="" nodeid="node7" tags="Amenidades|iNTERIOR" customnodeid="" source="" description="" datetime="12/11/2024 05:06 p.m." info="" comment="">
+      <mapcoords x_floorplan_percent="84.1667" x="1.38702" mapid="FloorPlan01" y="-0.398254" y_floorplan_percent="35.7143"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Patio 02" pan="-1.27" target="" tilt="-1.37" title="Patio Central 02" description="" url="{node4}" skinid="ht_node"/>
+      <hotspot id="Fire pit" pan="-283.78" target="" tilt="-7.44" title="Fire Pit" description="" url="{node8}" skinid="ht_node"/>
+      <hotspot id="alberca" pan="-304.4" target="" tilt="-3.75" title="Alrberca" description="" url="{node9}" skinid="ht_node"/>
+      <hotspot id="asoleaderos" pan="-338.44" target="" tilt="-0.96" title="Asoleaderos" description="" url="{node10}" skinid="ht_node"/>
+      <hotspot id="GYM" pan="-350.5" target="" tilt="-0.56" title="GYM" description="" url="{node12}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start pan="-157.08" fov="70" tilt="-5.5" projection="4"/>
+      <flyin pan="-179.35" fov="70" tilt="-7.5" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="Fire Pit" author="" copyright="" nodeid="node8" tags="Amenidades|iNTERIOR" customnodeid="" source="" description="" datetime="12/11/2024 05:06 p.m." info="" comment="">
+      <mapcoords x_floorplan_percent="74.8333" x="1.23322" mapid="FloorPlan01" y="-0.626221" y_floorplan_percent="56.1576"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="patio 02" pan="-34.45" target="" tilt="-2.17" title="Patio Central 02" description="" url="{node4}" skinid="ht_node"/>
+      <hotspot id="bar" pan="-106.58" target="" tilt="-5.68" title="Sport Bar" description="" url="{node7}" skinid="ht_node"/>
+      <hotspot id="gym" pan="-7.61" target="" tilt="0.13" title="GYM" description="" url="{node12}" skinid="ht_node"/>
+      <hotspot id="tina fria" pan="-13.55" target="" tilt="-1.66" title="Spa" description="" url="{node13}" skinid="ht_node"/>
+      <hotspot id="alberca" pan="-311.37" target="" tilt="-12.27" title="Alrberca" description="" url="{node9}" skinid="ht_node"/>
+      <hotspot id="asoleaderos" pan="-345.93" target="" tilt="-3.27" title="Asoleaderos" description="" url="{node10}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-106">
+      <start pan="-18.58" fov="70" tilt="-3.79" projection="4"/>
+      <flyin pan="-18.58" fov="70" tilt="-3.79" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="Alrberca" author="" copyright="" nodeid="node9" tags="Amenidades|iNTERIOR" customnodeid="" source="" description="" datetime="12/11/2024 05:06 p.m." info="" comment="">
+      <mapcoords x_floorplan_percent="75.3333" x="1.24146" mapid="FloorPlan01" y="-0.791016" y_floorplan_percent="70.936"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="gym" pan="-21.49" target="" tilt="-0.25" title="GYM" description="" url="{node12}" skinid="ht_node"/>
+      <hotspot id="spa" pan="-27.37" target="" tilt="-1.7" title="Spa" description="" url="{node13}" skinid="ht_node"/>
+      <hotspot id="Asoleadero" pan="-1.46" target="" tilt="-3.72" title="Asoleaderos" description="" url="{node10}" skinid="ht_node"/>
+      <hotspot id="Patio 02" pan="-51.56" target="" tilt="-0.25" title="Patio Central 02" description="" url="{node4}" skinid="ht_node"/>
+      <hotspot id="Fire pit" pan="-116.48" target="" tilt="-14.26" title="Fire Pit" description="" url="{node8}" skinid="ht_node"/>
+      <hotspot id="bar" pan="-105.32" target="" tilt="-1.58" title="Sport Bar" description="" url="{node7}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start pan="-37.86" fov="70" tilt="0.06" projection="4"/>
+      <flyin pan="-37.85" fov="70" tilt="0.06" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="Asoleaderos" author="" copyright="" nodeid="node10" tags="Amenidades|iNTERIOR" customnodeid="" source="" description="" datetime="12/11/2024 05:06 p.m." info="" comment="">
+      <mapcoords x_floorplan_percent="29.8333" x="0.491638" mapid="FloorPlan01" y="-0.780029" y_floorplan_percent="69.9507"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="gym" pan="-69.52" target="" tilt="-5.71" title="GYM" description="" url="{node12}" skinid="ht_node"/>
+      <hotspot id="spa" pan="-94.81" target="" tilt="-7.14" title="Spa" description="" url="{node13}" skinid="ht_node"/>
+      <hotspot id="alberca" pan="-188.32" target="" tilt="-6.71" title="Alrberca" description="" url="{node9}" skinid="ht_node"/>
+      <hotspot id="fire pit" pan="-172.13" target="" tilt="-5.31" title="Fire Pit" description="" url="{node8}" skinid="ht_node"/>
+      <hotspot id="bar" pan="-138.68" target="" tilt="-0.69" title="Sport Bar" description="" url="{node7}" skinid="ht_node"/>
+      <hotspot id="patio 02" pan="-126.46" target="" tilt="-1.83" title="Patio Central 02" description="" url="{node4}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="Pasillo" author="" copyright="" nodeid="node11" tags="Amenidades" customnodeid="" source="" description="" datetime="12/11/2024 05:06 p.m." info="" comment=""/>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Point01" pan="-13.22" target="_blank" tilt="-3.98" title="" description="" url="" skinid="ht_url"/>
+      <hotspot id="Point02" pan="-33.82" target="_blank" tilt="-9.66" title="" description="" url="" skinid="ht_url"/>
+      <hotspot id="Point03" pan="-314.01" target="_blank" tilt="-6.56" title="" description="" url="" skinid="ht_url"/>
+      <hotspot id="Point04" pan="-220.56" target="_blank" tilt="-6.81" title="" description="" url="" skinid="ht_url"/>
+      <hotspot id="Point05" pan="-183.02" target="_blank" tilt="-3.49" title="" description="" url="" skinid="ht_url"/>
+      <hotspot id="Point06" pan="-159.38" target="_blank" tilt="-2.66" title="" description="" url="" skinid="ht_url"/>
+      <hotspot id="Point07" pan="-130.98" target="_blank" tilt="-5.45" title="" description="" url="" skinid="ht_url"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start pan="21.06" fov="70" tilt="-3.78" projection="4"/>
+      <flyin pan="21.06" fov="70" tilt="-3.78" projection="4"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="GYM" author="" copyright="" nodeid="node12" tags="Amenidades|iNTERIOR" customnodeid="" source="" description="" datetime="11/11/2024 08:46 p.m." info="" comment="">
+      <mapcoords x_floorplan_percent="24" x="0.395508" mapid="FloorPlan01" y="-0.357056" y_floorplan_percent="32.0197"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="asoleaderos" pan="-245.85" target="" tilt="-1.97" title="Asoleaderos" description="" url="{node10}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltilesize="510" width="1500" levelbias="0.400" levelingroll="0" levelbiashidpi="1.000" height="1500" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingpitch="0">
+      <level width="1500" predecode="0" height="1500" preload="0"/>
+      <level width="750" predecode="0" height="750" preload="0"/>
+      <level width="375" predecode="1" height="375" preload="1"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view fovmode="0" pannorth="-90">
+      <start pan="0" fov="70" tilt="0" projection="4"/>
+      <flyin pan="0" fov="170" tilt="-90" projection="9"/>
+      <min pan="0" fovpixel="2" tilt="-90"/>
+      <max pan="360" fovfisheye="360" fov="120" tilt="90" scaletofit="1" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" longitude="" title="Spa" author="" copyright="" nodeid="node13" tags="Amenidades|iNTERIOR" customnodeid="" source="" description="" datetime="11/11/2024 08:46 p.m." info="" comment="">
+      <mapcoords x_floorplan_percent="40.1667" x="0.661926" mapid="FloorPlan01" y="-0.266418" y_floorplan_percent="23.8916"/>
+    </userdata>
+    <hotspots width="180" wordwrap="1" height="20">
+      <label width="180" border="1" backgroundcolor="0xffffff" borderradius="1" borderalpha="1" wordwrap="1" enabled="1" bordercolor="0x000000" height="20" textalpha="1" background="1" textcolor="0x000000" backgroundalpha="1"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundalpha="0.25098" mode="0"/>
+      <hotspot id="Asoleaderos" pan="-273.83" target="" tilt="-10.13" title="Asoleaderos" description="" url="{node10}" skinid="ht_node"/>
+    </hotspots>
+    <media/>
+    <transition softedge="0" blendtime="1" zoomfov="20" type="crossdissolve" enabled="1" zoomout="0" zoomoutpause="1" blendcolor="0x000000" zoomspeed="2" zoomin="0"/>
+    <flyintransition speed="2.00" enabled="1"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01"/>
+    <control contextfullscreen="1" lockedkeyboardzoom="0" sensitivity="8" invertwheel="0" invertcontrol="1" lockedwheel="0" lockedmouse="0" hideabout="0" rubberband="0" contextprojections="0" dblclickfullscreen="0" simulatemass="1" lockedkeyboard="0" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata latitude="" longitude="" title="" author="" copyright="" nodeid="master" tags="" customnodeid="" source="" description="" datetime="" info="" comment=""/>
+  </masternode>
+  <map id="FloorPlan01" width="600" type="file" zoomlevels="3" title="" floorplannorth="2" height="406" tileformat="png" transparent="1" bgcolor="rgba(255, 255, 255, 0)"/>
+</tour>
