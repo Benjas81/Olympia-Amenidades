@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.2/17873
 // Filename: Olympia  Amenidades con mapa.ggsk
-// Generated 2024-11-14T13:28:22
+// Generated 2024-11-14T18:36:46
 
 function pano2vrSkin(player,base) {
 	player.addVariable('ht_ani', 2, true);
